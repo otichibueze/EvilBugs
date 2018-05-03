@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\EBELE PC\.gradle\caches\transforms-1\files-1.1\play-services-base-7.5.0.aar\6b2daeefe2f3f6958a2b3114a3147489\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\EBELE PC\Documents\AndriodGameProgramming\AndroidStudioProjects\EvilBugs\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EBELE PC\Documents\AndriodGameProgramming\AndroidStudioProjects\EvilBugs\app\libs\App42_ANDROID_SDK_3.4.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fafce658c59ff6b2991b398563f9739381c9a7c">
+        <dex dex="C:\Users\EBELE PC\Documents\AndriodGameProgramming\AndroidStudioProjects\EvilBugs\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EBELE PC\.gradle\caches\transforms-1\files-1.1\play-services-ads-7.5.0.aar\00222839ef94a1139100c8adc38de916\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\EBELE PC\Documents\AndriodGameProgramming\AndroidStudioProjects\EvilBugs\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EBELE PC\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="C:\Users\EBELE PC\Documents\AndriodGameProgramming\AndroidStudioProjects\EvilBugs\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EBELE PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\ecf6413be36c43a4afe002149b583beb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="C:\Users\EBELE PC\Documents\AndriodGameProgramming\AndroidStudioProjects\EvilBugs\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EBELE PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\58da14cddff09822dfc110639262bf4c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="C:\Users\EBELE PC\Documents\AndriodGameProgramming\AndroidStudioProjects\EvilBugs\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EBELE PC\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\2c0cbbd900ef5ccfd35957efcebb508f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\EBELE PC\Documents\AndriodGameProgramming\AndroidStudioProjects\EvilBugs\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EBELE PC\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\f28416ba04f563db2489b16ef601e983\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="C:\Users\EBELE PC\Documents\AndriodGameProgramming\AndroidStudioProjects\EvilBugs\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EBELE PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\816c80920569109ea39ca8629a236ec8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="C:\Users\EBELE PC\Documents\AndriodGameProgramming\AndroidStudioProjects\EvilBugs\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EBELE PC\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\715d7a1c1dbddb7e0f098fd5521c99f9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="C:\Users\EBELE PC\Documents\AndriodGameProgramming\AndroidStudioProjects\EvilBugs\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EBELE PC\.gradle\caches\transforms-1\files-1.1\play-services-analytics-7.5.0.aar\8a4360110e74a3d3318e1a7563ee390a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\EBELE PC\Documents\AndriodGameProgramming\AndroidStudioProjects\EvilBugs\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>

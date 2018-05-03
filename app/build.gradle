@@ -1,0 +1,36 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyPassword 'passw00d'
+            storeFile file('C:/Users/MrWinston/AndroidStudioProjects/chibusoftkey.jks')
+            storePassword 'passw00d'
+            keyAlias 'chibusoftgames'
+        }
+    }
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+    defaultConfig {
+        applicationId 'chibu.soft.evilbugs'
+        minSdkVersion 15
+        targetSdkVersion 26
+        signingConfig signingConfigs.config
+        versionCode 2
+        versionName '2'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:26.0.2'
+    compile 'com.google.android.gms:play-services-ads:7.5.0'
+    compile files('libs/App42_ANDROID_SDK_3.4.jar')
+}
