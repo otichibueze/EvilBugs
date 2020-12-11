@@ -13,12 +13,7 @@ This is a 2d mobile game developed from scratch on android platform
 
 
 ## Description
-Ancient Evil forest Thousands of Bugs, gaint wasp and more are on the attack - can you survive the onslaught?
-Your screen will be filled with literally hundreds of monsters Bugs, and must blast them to bits or die trying!
-Have a massive array of awesome weapons all unlocked, then unleash your arsenal and Survive!
-IT’S YOU AGAINST GAINT BUGS! Harness the fury of high-tech weapons. Unleash Natural powers, Use lighting attack for quicker 
-and more stylish your kills, the more credits you’ll earn.
-
+Ancient Evil forest Thousands of Bugs, giant wasp, and more are on the attack - can you survive the onslaught? the player screen will have literally hundreds of monster bugs, and the player must blast them to bits or die trying! Have a massive array of awesome weapons all unlocked, then unleash your arsenal and Survive! IT’S YOU AGAINST GIANT BUGS! Harness the fury of high-tech weapons. Unleash Natural powers, Use lighting attack for quicker and more stylish your kills, the more credits you’ll earn.
 
 
 
